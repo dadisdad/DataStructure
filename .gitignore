@@ -1,3 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
 /DataStructure.iml
 /.idea/
+src/test/
+target/
